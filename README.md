@@ -1,5 +1,7 @@
 🐴 Cheval de Troie PAC-MAN
+
 📌 Qu'est-ce qu'un Cheval de Troie (Trojan) ?
+
 Un Trojan est une application qui semble légitime et inoffensive aux yeux de l'utilisateur, mais qui exécute en réalité une action malveillante en arrière-plan.
 
 Dans ce cas précis, il s'agit d’un faux jeu PAC-MAN. Lorsqu’il est lancé, le cheval de Troie s’active discrètement.
