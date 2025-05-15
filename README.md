@@ -9,9 +9,7 @@ Le jeu s’exécute normalement à l’écran, mais en parallèle :
 
 Il récupère automatiquement tous les fichiers de types .jpg, .png, .doc, et .pdf situés dans :
 
-makefile
-Copier
-Modifier
+
 C:\Users\HP\Documents\Ynov\virus\teste
 ![image](https://github.com/user-attachments/assets/206d0d7e-4226-4702-b5bf-ab0309ac8895)
 
