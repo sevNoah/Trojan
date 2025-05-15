@@ -11,6 +11,7 @@ Il récupère automatiquement tous les fichiers de types .jpg, .png, .doc, et .p
 
 
 C:\Users\HP\Documents\Ynov\virus\teste
+
 ![image](https://github.com/user-attachments/assets/206d0d7e-4226-4702-b5bf-ab0309ac8895)
 
 Ces fichiers sont ensuite envoyés sur un serveur Discord pour que l’attaquant puisse les récupérer à distance.
